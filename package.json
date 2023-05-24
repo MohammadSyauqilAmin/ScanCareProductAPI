@@ -1,0 +1,16 @@
+{
+  "name": "product-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "hostname-patcher": "^1.2.0",
+    "nanoid": "^4.0.2"
+  },
+  "description": ""
+}
